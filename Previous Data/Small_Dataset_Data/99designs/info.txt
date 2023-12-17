@@ -1,0 +1,7 @@
+1: <a class="top-level-nav__item__link SMOKETEST_login_link" data-globalnavui-loginlink="data-globalnavui-loginlink" href="https://99designs.com/login">Log in</a>
+2: <a class="button button--responsive button--primary button--hover button--jumbo button--chameleon" data-homepage-cta="" data-homepage-cta-location="product-section-primary" href="https://99designs.com/categories">
+<span class="button__inner">
+<span class="button__label">
+            Get started        </span>
+</span>
+</a>
