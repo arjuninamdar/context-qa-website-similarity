@@ -10,4 +10,4 @@ The code provided in this repo sought to provide an understanding of what to loo
 
 From here, the data from each of the tests were compiled and analyzed. Effective methods when determining a corresponding "new" element would have relatively large average score differences when comparing the actual new element and the other new elements.
 
-The data collected from a small dataset is provided in the repo. 
+The data collected from a small dataset is provided in the repo, which may be found under the "Previous Data" folder. Additionally, the code for the scraper, tester, and data compilation (into .xlsx files) may be found in the two .ipynb files. 
